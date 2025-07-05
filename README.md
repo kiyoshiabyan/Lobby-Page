@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <strong>فما لحوادث الدنيا بقاء</strong>
+  <strong>اسمي محمد كيوشي أبيان، من بيكاسي</strong>
 </p>
 
 <p align="center">
-<br/> 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
-  <br/> ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
-<br/> 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
+<br/> الفصل الثالث (ب) المتوسط
+  <br/> الغرفة السادس
+<br/> «خير الناس أنفعهم للناس»
 </p>
 <br/>
 <div align="center">
@@ -24,26 +24,6 @@
 
 ---
 
-Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
+Just a random teenager, if you want to contact me, https://wa.me/qr/T7W3J4NQ5RCQH1
 
-*"My dopamine? Your problem.*  
-*The climax? When I'm solving it with **bits, cables, and creativity**. Bi'idznillahi ta'ala 💚"*
   
----
-
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1oveQMGdYK6KNpTYmZ5OlkjvRroiQ9Qx4" target="_blank">
-    <img alt="CV" src="https://img.shields.io/badge/Curriculum%20Vitae-FFC300?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/creatorbe/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/6289619060672" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
-
-<h5 align="center">
-👋 Have any questions, projects, or just want to say hi?<br/>
-Click one of the badges above and send me a message! 💌
-</h5>
