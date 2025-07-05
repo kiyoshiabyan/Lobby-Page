@@ -2,11 +2,7 @@
   <strong>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</strong>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/c/HasanBasriCreatorbe" target="_blank">
-    <img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif" alt="Hasan in Matrix" style="max-width: 100%; height: auto;" />
-  </a>
-</p>
+
 
 <p align="center">
   <strong>اسمي محمد كيوشي أبيان، من بيكاسي</strong>
